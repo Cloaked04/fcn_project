@@ -1,0 +1,2 @@
+initial_state,error_type,error_params,qec_method,distance,avg_fidelity,std_fidelity,iterations_completed,loss_count
+-,amplitude_damping,{'gamma': 10000000.0},three_qubit_phase_flip,200.0,0.46,0.4996481173846552,200,0

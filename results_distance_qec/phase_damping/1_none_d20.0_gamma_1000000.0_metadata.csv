@@ -1,0 +1,2 @@
+initial_state,error_type,error_params,qec_method,distance,avg_fidelity,std_fidelity,iterations_completed,loss_count
+1,phase_damping,{'gamma': 1000000.0},none,20.0,0.47470922369420826,0.1,200,0

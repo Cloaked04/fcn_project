@@ -1,0 +1,2 @@
+initial_state,error_type,error_params,qec_method,distance,avg_fidelity,std_fidelity,iterations_completed,loss_count,secondary_error_type,secondary_error_params
+0,fibre_loss,"{'p_loss_init': 0.05, 'p_loss_length': 0.16}",none,10.0,0.9740634005763689,0.15917571819705156,347,153,amplitude_damping,{'gamma': np.float64(0.2)}

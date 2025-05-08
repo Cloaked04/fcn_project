@@ -1,0 +1,2 @@
+initial_state,error_type,error_params,qec_method,distance,avg_fidelity,std_fidelity,iterations_completed,loss_count,secondary_error_type,secondary_error_params,tertiary_error_type,tertiary_error_params
++,fibre_loss,"{'p_loss_init': 0.05, 'p_loss_length': 0.16}",shor_nine,10.0,1.0,0.0,30,470,amplitude_damping,{'gamma': 0.07333333333333333},phase_damping,{'gamma': 0.01}
